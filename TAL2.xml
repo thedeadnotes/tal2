@@ -2,13 +2,13 @@
 <rss version="2.0" xml:base="https://www.thisamericanlife.org/podcast/rss.xml"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
  <title>THAT American LYFE</title>
- <link>https://www.thisamericanlife.org/podcast/rss.xml</link>
+ <link>https://thedeadnotes.github.io/tal2/TAL2.xml</link>
  <description>Each week we choose a theme. Then anything can happen. This American Life is true stories that unfold like little movies for radio. Personal stories with funny moments, big feelings, and surprising plot twists. Newsy stories that try to capture what it’s like to be alive right now. It’s the most popular weekly podcast in the world, and winner of the first ever Pulitzer Prize for a radio show or podcast. Hosted by Ira Glass and produced in collaboration with WBEZ Chicago.</description>
  <language>en</language>
- <itunes:new-feed-url>https://www.thisamericanlife.org/podcast/rss.xml</itunes:new-feed-url>
- <atom:link href="https://www.thisamericanlife.org/podcast/rss.xml" rel="self" type="application/rss+xml" />
+ <itunes:new-feed-url>https://thedeadnotes.github.io/tal2/TAL2.xml</itunes:new-feed-url>
+ <atom:link href="https://thedeadnotes.github.io/tal2/TAL2.xml" rel="self" type="application/rss+xml" />
  <copyright>Copyright 1995-2024 This American Life</copyright>
- <itunes:author>This American Life</itunes:author>
+ <itunes:author>THIS FOOS CRAZY LYFE</itunes:author>
  <itunes:subtitle>Each week we choose a theme. Then anything can happen. This American Life is true stories that unfold like little movies for radio. Personal stories with funny moments, big feelings, and surprising plot twists. Newsy stories that try to capture what it’s like to be alive right now. It’s the most popular weekly podcast in the world, and winner of the first ever Pulitzer Prize for a radio show or podcast. Hosted by Ira Glass and produced in collaboration with WBEZ Chicago.</itunes:subtitle>
  <itunes:explicit>false</itunes:explicit>
  <itunes:owner> <itunes:email>web@thislife.org</itunes:email>
@@ -28,7 +28,7 @@
  <itunes:episodeType>full</itunes:episodeType>
  <itunes:episode>815</itunes:episode>
  <itunes:title>How I Learned to Shave</itunes:title>
- <itunes:author>This American Life</itunes:author>
+ <itunes:author>THIS FOOS CRAZY LYFE</itunes:author>
  <itunes:explicit>false</itunes:explicit>
  <itunes:image href="https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/tal-815.jpg?itok=0dLGuVjS" />
  <enclosure url="https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR2361669700.mp3" type="audio/mpeg" />
