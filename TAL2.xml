@@ -3,15 +3,15 @@
 <channel>
  <title>THAT American LYFE</title>
  <link>https://thedeadnotes.github.io/tal2/TAL2.xml</link>
- <description>Each week we choose a theme. Then anything can happen. This American Life is true stories that unfold like little movies for radio. Personal stories with funny moments, big feelings, and surprising plot twists. Newsy stories that try to capture what it’s like to be alive right now. It’s the most popular weekly podcast in the world, and winner of the first ever Pulitzer Prize for a radio show or podcast. Hosted by Ira Glass and produced in collaboration with WBEZ Chicago.</description>
+ <description>how far can we go changing stuff like for instance this is a description.</description>
  <language>en</language>
  <itunes:new-feed-url>https://thedeadnotes.github.io/tal2/TAL2.xml</itunes:new-feed-url>
  <atom:link href="https://thedeadnotes.github.io/tal2/TAL2.xml" rel="self" type="application/rss+xml" />
- <copyright>Copyright 1995-2024 This American Life</copyright>
+ <copyright>Copyright 2024-3000 THAT FOO</copyright>
  <itunes:author>THIS FOOS CRAZY LYFE</itunes:author>
- <itunes:subtitle>Each week we choose a theme. Then anything can happen. This American Life is true stories that unfold like little movies for radio. Personal stories with funny moments, big feelings, and surprising plot twists. Newsy stories that try to capture what it’s like to be alive right now. It’s the most popular weekly podcast in the world, and winner of the first ever Pulitzer Prize for a radio show or podcast. Hosted by Ira Glass and produced in collaboration with WBEZ Chicago.</itunes:subtitle>
+ <itunes:subtitle>Where does this itunes subtitle go?.</itunes:subtitle>
  <itunes:explicit>false</itunes:explicit>
- <itunes:owner> <itunes:email>web@thislife.org</itunes:email>
+ <itunes:owner> <itunes:email>jim@aol.com</itunes:email>
 </itunes:owner>
  <itunes:category text="Society &amp; Culture" />
  <itunes:category text="Arts" />
